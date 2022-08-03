@@ -1,9 +1,9 @@
 ## 👋 Olá, meu nome é Rafael Vasconcelos, desenvolvedor Frontend
 <div>
   <div align=center>
-    <a href="https://github.com/rafael-lima-vasconcelos">
-    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=rafael-lima-vasconcelos&theme=merko&count_private=true"/>
-<!--     <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-lima-vasconcelos&langs_count=10&theme=merko&card_width=500"    /> -->
+    <a href="https://github.com/rafa-vasconcelos">
+    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=rafa-vasconcelos&theme=merko&count_private=true"/>
+<!--     <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafa-vasconcelos&langs_count=10&theme=merko&card_width=500"    /> -->
   </div>
   <div style="display: inline_block"><br>
     <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
@@ -25,8 +25,8 @@
 
 
     
-![Snake animation](https://github.com/rafael-lima-vasconcelos/rafael-lima-vasconcelos/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/rafa-vasconcelos/rafa-vasconcelos/blob/output/github-contribution-grid-snake.svg)
     
-<!-- rafael-lima-vasconcelos/rafael-lima-vasconcelos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- rafa-vasconcelos/rafa-vasconcelos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
  -->
