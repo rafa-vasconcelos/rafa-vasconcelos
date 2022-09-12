@@ -1,10 +1,11 @@
 ## 👋 Olá, meu nome é Rafael Vasconcelos, desenvolvedor Frontend
 <div>
   <div align=center>
-    <a href="https://github.com/rafa-vasconcelos">
     <img height="200em" src="https://github-readme-stats.vercel.app/api?username=rafa-vasconcelos&theme=merko&count_private=true"/>
 <!--     <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafa-vasconcelos&langs_count=10&theme=merko&card_width=500"    /> -->
   </div>
+    <br></br>
+  <p>Skills: HTML, CSS, Javascript, React, Jquery, Bootstrap, Sass</p>
   <div style="display: inline_block"><br>
     <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
     <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
