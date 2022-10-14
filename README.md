@@ -1,4 +1,4 @@
-## 👋 Olá, meu nome é Rafael Vasconcelos, desenvolvedor Frontend
+## 👋 Olá, meu nome é Rafael Vasconcelos, desenvolvedor web
 <div>
   <div align=center>
     <img height="200em" src="https://github-readme-stats.vercel.app/api?username=rafa-vasconcelos&theme=merko&count_private=true"/>
