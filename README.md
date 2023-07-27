@@ -1,4 +1,4 @@
-## 👋 Hello, I'm Rafael Vasconcelos, developer web
+## 👋 Hello, I'm Rafael Vasconcelos, web developer
 <div>
   <div align=center>
     <img height="200em" src="https://github-readme-stats.vercel.app/api?username=rafa-vasconcelos&theme=merko&count_private=true"/>
